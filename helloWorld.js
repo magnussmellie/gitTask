@@ -1,5 +1,3 @@
-function myFunction(){ 
-    console.log("Git is Awesome!")
-} 
+let input = prompt("Enter input:"); 
+console.log(input) 
 
-myFunction()
